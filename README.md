@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ourabigdev
-- 👀 I’m interested in Game developement, Web developement, Cyber Security
-- 🌱 I’m currently learning Web developement, Cyber Security
+- 👀 I’m interested in Game developement, Web developement, aerospace engeneering
+- 🌱 I’m currently learning Web developement, simulation developement
 
-<!---
-ourabigdev/ourabigdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ourabigdev)](https://github.com/anuraghazra/github-readme-stats)
