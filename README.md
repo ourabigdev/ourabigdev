@@ -1,9 +1,10 @@
 # Hi there 👋, I’m Hatim Ourahou (@ourabigdev)
 
-- 👀 I’m interested in **Game Development, Simulation, Cybersecurity, AI, and Data**  
-- 🎮 **Game Development Experience:** Godot (intermediate), Unity (beginner), Stride (beginner), SDL 3 (learning)  
-- 🌱 I’m currently **exploring research, security, AI, and data**, trying to grow and evolve my skills  
-- 💡 Always curious and **keen to learn new technologies and tackle new challenges**  
+- 👀 I’m passionate about **Game Development, Simulation, Cybersecurity, AI, and Data**  
+- 🎮 **Game Development Experience:** Godot (intermediate), Unity (beginner), Stride (beginner), SDL 3 (learning) — still building my skills and exploring new tools  
+- 🐧 **Linux Enthusiast:** comfortable with Linux and always learning more about its ecosystem  
+- 🌱 Currently **exploring research, cybersecurity, AI, and data**, continuously improving my knowledge  
+- 💡 **Curious and eager to learn**, take on new challenges, and grow as a developer  
 
 [![Hatim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ourabigdev&show_icons=true&theme=radical)](https://github.com/ourabigdev)
 
