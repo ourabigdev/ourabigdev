@@ -15,9 +15,5 @@ I’m a curious developer interested in **game development, simulation, and rese
 ---
 
 ## 🌱 Currently Exploring
-Research • Cybersecurity • AI • Data • Systems & Engine Architecture
+Research • Cybersecurity • Graphics Programming • Systems & Engine Architecture
 
----
-
-## 💡 Mindset
-Always learning • Curious • Open to challenges & collaboration
