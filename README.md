@@ -27,7 +27,7 @@
 
 **Languages & Systems**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,bash,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,bash" />
 </p>
 
 **Frameworks, Graphics & Engines**
